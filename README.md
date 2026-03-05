@@ -1,2 +1,3 @@
 # the-Fpv-drone
-i vant tobuild an fpv drone
+i vant to build an fpv drone
+ 
